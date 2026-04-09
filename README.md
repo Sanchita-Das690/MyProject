@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # My Journey & Professional Skills 🚀
 
 Welcome to my first GitHub repository! This project showcases my transition into the world of **Urban and Rural Planning (URP)** and my expertise in **freelancing**.
@@ -18,3 +19,7 @@ Welcome to my first GitHub repository! This project showcases my transition into
 
 ---
 *Created by Sanchita Das. Building the cities of tomorrow while mastering the data of today.*
+=======
+# My-URP-Project
+My first web development project showcasing my skills in HTML, Git, and my journey as a URP student at KUET.
+>>>>>>> 5f2614aabdeaa3ec0557217c0e890e7bcb4cf956
