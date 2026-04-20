@@ -7,4 +7,4 @@ Welcome to my first web project! This is a simple portfolio website where I show
 - **Technologies Used:** HTML, CSS, GitHub Pages
 
 ## Live Website:
-[Click here to view my portfolio](https://sanchita-das690.github.io/My-URP-Project/)
+[Click here to view my portfolio](https://github.com/Sanchita-Das690/My-Portfolio)
